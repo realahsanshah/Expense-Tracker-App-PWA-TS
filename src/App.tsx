@@ -7,7 +7,6 @@ import History from './components/History';
 import Transaction from './components/Transaction';
 import {GlobalProvider} from './context/GlobalState';
 
-
 function App() {
   return (
     <div>
