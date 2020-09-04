@@ -1,7 +1,8 @@
 import React,{createContext,useReducer} from 'react'
 import AppReducer from './AppReducer';
 
-type transactionType={
+export type transactionType={
+    id:any,
     text:string,
     amount:number
 }
