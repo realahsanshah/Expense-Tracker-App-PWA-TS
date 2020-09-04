@@ -29,3 +29,19 @@ this.addEventListener('fetch',(event)=>{
     )
     }
 })
+
+
+ /* eslint-disable no-undef */
+
+importScripts('https://www.gstatic.com/firebasejs/7.19.1/firebase-app.js');
+importScripts('https://www.gstatic.com/firebasejs/7.19.1/firebase-messaging.js');
+
+firebase.initializeApp({
+    apiKey: "AIzaSyDZMAteg9tJqcjqt6yLdCxlKeenn7967Hs",
+    authDomain: "fir-messaging-app-demo.firebaseapp.com",
+    projectId: "fir-messaging-app-demo",
+    messagingSenderId: "1008015040203",
+    appId: "1:1008015040203:web:7158705b6460896625454e"
+});
+
+firebase.messaging();
