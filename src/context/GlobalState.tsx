@@ -1,8 +1,13 @@
 import React,{createContext,useReducer} from 'react'
 import AppReducer from './AppReducer';
 
+type transactionType={
+    text:string,
+    amount:number
+}
+
 type stateType={
-    transactions:number[],
+    transactions:transactionType[],
     deleteTransaction:any,
     addTransaction:any
 }
