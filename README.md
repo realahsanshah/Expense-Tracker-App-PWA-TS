@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Surge Deploy Link
-http://realsashah-bootcamp-expense-tracker-app-ts.surge.sh/
+## [Surge Deploy Link](http://realsashah-bootcamp-expense-tracker-app-ts.surge.sh/)
+
 
 ## Firebase Deploy Link
 https://expense-tracker-project7a.web.app/
