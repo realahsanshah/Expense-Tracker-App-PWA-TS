@@ -3,8 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## [Surge Deploy Link](http://realsashah-bootcamp-expense-tracker-app-ts.surge.sh/)
 
 
-## Firebase Deploy Link
-https://expense-tracker-project7a.web.app/
+## [Firebase Deploy Link](https://expense-tracker-project7a.web.app/)
 
 ## Available Scripts
 
